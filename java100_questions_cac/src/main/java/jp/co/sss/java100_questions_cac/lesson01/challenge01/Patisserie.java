@@ -17,3 +17,4 @@ package jp.co.sss.java100_questions_cac.lesson01.challenge01;
 public class Patisserie {
 
 }
+//aiaga
